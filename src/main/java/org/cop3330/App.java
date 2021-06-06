@@ -1,6 +1,5 @@
 package org.cop3330;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class App {
